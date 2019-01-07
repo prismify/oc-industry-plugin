@@ -1,0 +1,14 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    name:
+        label: prismify.industry::lang.models.industry.columns.name.label
+        searchable: true
+    code:
+        label: prismify.industry::lang.models.industry.columns.code.label
+        searchable: true
+    is_enabled:
+        label: prismify.industry::lang.models.industry.columns.enabled.label
+        type: switch

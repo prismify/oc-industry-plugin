@@ -1,0 +1,4 @@
+1.0.1:
+    - First version of Industry List
+    - create_industries_table.php
+    - seed_all_tables.php

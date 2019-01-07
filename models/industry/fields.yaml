@@ -1,0 +1,17 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    is_enabled:
+        label: prismify.industry::lang.models.industry.fields.enabled.label
+        type: checkbox
+        span: full
+    name:
+        label: prismify.industry::lang.models.industry.fields.name.label
+        placeholder: prismify.industry::lang.models.industry.fields.name.placeholder
+        span: left
+    code:
+        label: prismify.industry::lang.models.industry.fields.code.label
+        placeholder: prismify.industry::lang.models.industry.fields.code.placeholder
+        span: right
